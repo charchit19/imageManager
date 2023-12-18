@@ -49,7 +49,7 @@ const UserImages = () => {
                         {/* Display the image */}
                         <img
                             src={image}
-                            alt={`Image ${index}`}
+                            alt={`${index}`}
                             className="w-full h-40 object-cover rounded-t-lg"
                         />
                         <div className="p-4">

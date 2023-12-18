@@ -60,7 +60,7 @@ const Allima = () => {
                                     <img
                                         key={imageIndex}
                                         src={image}
-                                        alt={`User Image ${userIndex + 1}-${imageIndex + 1}`}
+                                        alt={`User ${userIndex + 1}-${imageIndex + 1}`}
                                         className="w-full h-40 object-cover rounded-t-lg"
                                     />
                                     <div className="p-4 pb-0">

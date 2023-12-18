@@ -1,5 +1,5 @@
 import Login from './components/login';
-import { BrowserRouter, Navigate, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Register from './components/register';
 import Dashboard from './components/dashboard';
 import Images from './components/images';
