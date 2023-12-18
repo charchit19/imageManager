@@ -45,7 +45,7 @@ const Allima = () => {
     };
 
     return (
-        <div className='bg-gray-50 dark:bg-gray-900 h-full'>
+        <div className='bg-gray-50 dark:bg-gray-900 h-screen'>
             {/* Include the Navbar component */}
             <Navbar />
             <section className="bg-gray-50 dark:bg-gray-900 h-full flex flex-wrap justify-center p-4">
